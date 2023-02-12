@@ -3,3 +3,5 @@
 ### Want to get in touch?
 <a href="mailto:laurenzguevara@outlook.com"><img src="https://custom-icon-badges.demolab.com/badge/-Outlook-%230078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/laurenzguevara/"><img src="https://custom-icon-badges.demolab.com/badge/-Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurenz-guevara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
