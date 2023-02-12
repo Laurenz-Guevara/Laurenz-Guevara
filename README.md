@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&duration=3000&pause=1500&color=DA291D&center=true&width=435&lines=Welcome+to+my+profile.)](https://git.io/typing-svg)
-
-## Hi there, I'm Laurenz!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&duration=3000&pause=1500&color=C9D1D9&center=true&width=435&lines=Hi+there%2C+I'm+Laurenz)](https://git.io/typing-svg)
 I'm a UK based developer that likes rock climbing, weight training and web development.
 
 ### Want to get in touch?
