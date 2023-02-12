@@ -3,6 +3,3 @@
 ### Want to get in touch?
 <a href="mailto:laurenzguevara@outlook.com"><img src="https://custom-icon-badges.demolab.com/badge/-Outlook-%230078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/laurenzguevara/"><img src="https://custom-icon-badges.demolab.com/badge/-Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
-### Technology I've built with
-<a href="https://sass-lang.com/"><img src="https://custom-icon-badges.demolab.com/badge/-SCSS-%23CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass-scss"></a>
