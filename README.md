@@ -6,7 +6,7 @@ https://www.laurenzguevara.com/
 ### Some of my projects.
 
 <p align="center">
-  <a href="https://github.com/Laurenz-Guevara/ventus-verba">
+  <a href="https://github.com/Laurenz-Guevara/laurenz-guevara-portfolio-next-tailwind">
     <img src="https://user-images.githubusercontent.com/58118627/221390307-a72ddf2b-24ac-4968-99f5-4c2a2b548f54.png" width="24%"/>
   </a>
   <a href="https://github.com/Laurenz-Guevara/cliff-crafts">
