@@ -6,10 +6,18 @@ https://www.laurenzguevara.com/
 ### Some of my projects.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/58118627/221390307-a72ddf2b-24ac-4968-99f5-4c2a2b548f54.png" width="24%"/> 
-  <img src="https://user-images.githubusercontent.com/58118627/221390321-e80ee7fd-32d9-4484-bb7f-594cd61e72bf.png" width="24%"/> 
-  <img src="https://user-images.githubusercontent.com/58118627/221390369-914cb341-1e7d-4c0d-b1ba-b9b11ca8783c.png" width="24%"/> 
-  <img src="https://user-images.githubusercontent.com/58118627/221390345-894822bc-038f-4552-b255-e9292cc18fe0.png" width="24%"/> 
+  <a href="https://github.com/Laurenz-Guevara/ventus-verba">
+    <img src="https://user-images.githubusercontent.com/58118627/221390307-a72ddf2b-24ac-4968-99f5-4c2a2b548f54.png" width="24%"/>
+  </a>
+  <a href="https://github.com/Laurenz-Guevara/cliff-crafts">
+    <img src="https://user-images.githubusercontent.com/58118627/221390321-e80ee7fd-32d9-4484-bb7f-594cd61e72bf.png" width="24%"/> 
+  </a>
+  <a href="https://github.com/Laurenz-Guevara/repetise-dev">
+    <img src="https://user-images.githubusercontent.com/58118627/221390369-914cb341-1e7d-4c0d-b1ba-b9b11ca8783c.png" width="24%"/> 
+  </a>
+  <a href="https://github.com/Laurenz-Guevara/ventus-verba">
+    <img src="https://user-images.githubusercontent.com/58118627/221390345-894822bc-038f-4552-b255-e9292cc18fe0.png" width="24%"/> 
+  </a>
 </p>
 
 ### Want to get in touch?
