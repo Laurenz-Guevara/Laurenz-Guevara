@@ -3,6 +3,16 @@
 ### Check out my portfolio
 https://www.laurenzguevara.com/
 
+You can retrieve my resume using CURL and view it with JQ:  
+
+```sh
+curl -X GET https://api.laurenzguevara.com/resume | jq
+```
+
+Alternatively, you can send a GET request through tools like Postman:  
+
+https://api.laurenzguevara.com/resume
+
 ### Some of my projects.
 
 <p align="center">
