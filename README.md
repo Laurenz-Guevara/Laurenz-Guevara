@@ -10,9 +10,9 @@ curl -X GET https://api.laurenzguevara.com/resume | jq
 ```
 
 Alternatively, you can send a GET request through tools like Postman:  
-
+```
 https://api.laurenzguevara.com/resume
-
+```
 ### Some of my projects.
 
 <p align="center">
