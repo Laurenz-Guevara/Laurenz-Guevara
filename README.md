@@ -1,5 +1,5 @@
 ### Check out my portfolio
-https://www.laurenzguevara.com/
+https://www.laurenzguevara.com
 
 You can retrieve my resume using CURL and view it with JQ:  
 
