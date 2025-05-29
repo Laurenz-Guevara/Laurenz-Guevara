@@ -1,5 +1,3 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=600&duration=3000&pause=1500&color=C9D1D9&vCenter=true&width=432&height=22&lines=Hi+there%2C+I'm+Laurenz!" alt="Typing SVG" /></a>
-
 ### Check out my portfolio
 https://www.laurenzguevara.com/
 
